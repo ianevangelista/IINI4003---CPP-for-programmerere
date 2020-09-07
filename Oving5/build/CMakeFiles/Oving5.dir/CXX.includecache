@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3.klasse/C++/Oving5/main.cpp
+iostream
+-
+iterator
+-
+memory
+-
+string
+-
+vector
+-
+
