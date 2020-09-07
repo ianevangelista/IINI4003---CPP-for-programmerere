@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3.klasse/C++/Oving5
+# Install script for directory: /Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3. klasse/C++/Oving5
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3.klasse/C++/Oving5/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3. klasse/C++/Oving5/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3. klasse/C++/Oving6/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -isystem /usr/local/include  -std=c++1y -Wall -Wextra -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -o CMakeFiles/Oving6.dir/server.cpp.o -c \"/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3. klasse/C++/Oving6/server.cpp\"",
+  "file": "/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3. klasse/C++/Oving6/server.cpp"
+}
+]

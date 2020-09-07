@@ -1,0 +1,3 @@
+/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3. klasse/C++/Oving6/build/CMakeFiles/rebuild_cache.dir
+/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3. klasse/C++/Oving6/build/CMakeFiles/edit_cache.dir
+/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3. klasse/C++/Oving6/build/CMakeFiles/Oving6.dir
