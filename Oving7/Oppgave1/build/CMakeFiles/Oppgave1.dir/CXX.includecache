@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3. klasse/C++/Oving7/Oppgave1/fraction.hpp
+
+/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3. klasse/C++/Oving7/Oppgave1/main.cpp
+fraction.hpp
+/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3. klasse/C++/Oving7/Oppgave1/fraction.hpp
+iostream
+-
+string
+-
+

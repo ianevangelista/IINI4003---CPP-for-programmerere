@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3. klasse/C++/Oving3_2/Oppgave3/commodity.cpp
+commodity.hpp
+/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3. klasse/C++/Oving3_2/Oppgave3/commodity.hpp
+iostream
+-
+stdio.h
+-
+string
+-
+
+/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3. klasse/C++/Oving3_2/Oppgave3/commodity.hpp
+cctype
+-
+cstring
+-
+iostream
+-
+stdio.h
+-
+string
+-
+

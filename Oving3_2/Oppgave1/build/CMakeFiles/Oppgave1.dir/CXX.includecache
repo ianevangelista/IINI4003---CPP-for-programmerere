@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3. klasse/C++/Oving3_2/Oppgave1/circle.cpp
+circle.hpp
+/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3. klasse/C++/Oving3_2/Oppgave1/circle.hpp
+iostream
+-
+
+/Users/ianevangelista/OneDrive - NTNU/Dataingeniør/3. klasse/C++/Oving3_2/Oppgave1/circle.hpp
+
