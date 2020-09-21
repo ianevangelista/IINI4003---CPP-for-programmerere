@@ -4,21 +4,27 @@
 using namespace std;
 
 int main() {
-  // Lage en tom mengde og så fylle på elementer
-  Set mengdeA;
-  mengdeA + 1;
+
+  Set mengdeA; // Lager en tom mengde
+  mengdeA + 1; // Legger inn tall i mengden
+  mengdeA + 1; // Hvis et tall finnes fra før av i mengde, vil den ikke legges inn
   mengdeA + 4;
   mengdeA + 3;
-  mengdeA.skrivUtSet();
+  mengdeA.skrivUtSet(); //Skriver ut mengden
 
-  // Lage en mengde med startmengde
   vector<int> tall = {4, 7};
-  Set mengdeB(tall);
+  Set mengdeB(tall); // Lager en mengde med startmengde
   mengdeB.skrivUtSet();
 
-  // Lage summen (union) av to mengder
   Set sumAB;
-  sumAB = mengdeA;
-  sumAB += mengdeB;
+  sumAB = mengdeA;  // Setter to mengder like hverandre
+  sumAB += mengdeB; // Finner unionen av to mengder
   sumAB.skrivUtSet();
 }
+
+/*
+ * Utskrift:
+ * {1, 4, 3}
+ * {4, 7}
+ * 1, 4, 3, 7}
+ */
